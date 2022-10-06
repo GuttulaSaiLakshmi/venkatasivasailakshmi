@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <h1 align="center">GUTTULA VENKATA SIVA SAI LAKSHMI</h1>
+    <body style="background-color:beige">
+  <p><u><i>PERSONAL DETAILS</i></u><BR><BR>
+  NAME:GUTTULA VENKATA SIVA SAI LAKSHMI<BR>
+ FATHER NAME:GUTTULA SURYANARAYANA<BR>
+MOTHER NAME:GUTTULA SATYA VENI<BR>
+</p>
+
+    <p><i><u>CAREER OBJECTIVE:</u></i><br><br>
+    I'm looking for a challenging position at a respectable company where I can use my technical, database, and managerial abilities for the organization's growth as well as to further my understanding of current and emerging trends in the IT industry.
+
+<BR><BR><BR><BR><BR>
+   </p>
+    <table style="width: 100%;">
+        <P><i><u>EDUCATIONAL QUALIFICATION</u></i></P><tr>
+       <td><b>DEGREE/QUALIFICATION</b></td>
+       <td><b>AGGREGATE(CGPA)</b></td>
+       <td><b>PASS OUT YEAR</b></td>
+   </tr>
+   <tr>
+       <td>VIGINAN'S NIRULA INSTITUIION OF SCIENCE AND TECHNOLOGYNFOR WOMENS</td>
+       <td>8.23</td>
+       <td>2021-2023</td>
+   </tr>
+   <tr>
+    <td>SREE SIDDARTHA JUNIOR COLLEGE</td>
+    <td>865(CGPA)</td>
+    <td>2019-2021</td>
+</tr>
+<tr>
+    <td>ZILLA PRAJA PARISHAD HIGH SCHOOL</td>
+    <td>9.7(PERCANTAGE)</td>
+    <td>2019</td>
+</tr>
+</table>
+<p><i><u>EXTRA-CURRICULAR ACTIVITIES & ACHIEVEMENTS:</u></i>
+<br><br>
+<ul>
+    <li>Hosting for several cultural programs conducted in college</li>
+    <li>Achieved a certificate for pythonproject on PYGAME </li>
+    <li>achieved a certificate for THE COMPUTING JOY OF PYTHON</li>
+    <li>obtained a NSS SHEME certificates</li>
+</ul>
+</p>
+<p><i><u>STRENGTHS:</u></i>
+<ul>
+    <li>QUICK LEARNER</li>
+    <li>GOOD TEAM PLAYER </li>
+    <li>HONEST WITH REGARD TO MY WORK AND COMMITMENT </li>
+    <li>GOOD TIME MANAGEMENT</li>
+</ul></p>
+   </body>
+</html>
+<style>
+    h1{
+        background:deeppink;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    table, th, td {
+  border: 1px solid black;
+
+}
+
+</style>
